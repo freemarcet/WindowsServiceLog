@@ -1,0 +1,3 @@
+# WindowsServiceLog
+
+## Script under construction
